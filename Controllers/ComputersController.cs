@@ -28,7 +28,7 @@ namespace Computers.Controllers
             }),
             new Computer("162.254.206.227", new List<Tag>
             {
-                new Tag("Decomissioned", "black")
+                new Tag("Decommissioned", "black")
             })
         };
 
